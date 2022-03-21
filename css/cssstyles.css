@@ -1,0 +1,810 @@
+body{
+	margin: 0;
+
+}
+
+.header{
+	position: relative;
+	width: 100%;
+	height: 58px;
+	background: #2874f0;
+	display: flex;
+}
+.logo{
+	width: 15%;
+	height: 100%;
+	
+}
+.search{
+    width: 40%;
+    height: 100%;
+    padding-left: 78px;
+    padding-top: 10px;
+    
+	
+}
+.cart{
+	width: 40%;
+	height: 100%;
+	
+}
+
+.pic{
+	        width: 106px;
+    height: 29px;
+    padding-left: 184px;
+    padding-top: 15px;
+}
+
+.searchbar{
+	       width: 525px;
+    height: 28px;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.fa-search{
+	width: 20px;
+    height: 22px;
+    color: blue;
+    padding-top: 8px;
+    }
+#profile{
+	position: absolute;
+	left: 75%;
+	top: 25%;
+	width: 70px;
+    background: #2874f0;
+    text-decoration:none solid;
+    color: white;
+    border: 0;
+    font-weight: 700;
+    font-size:17px;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+#cart{
+	position: absolute;
+	left: 90%;
+	top: 25%;
+	width: 70px;
+    background: #2874f0;
+    text-decoration:none solid;
+    color: white;
+    border: 0;
+    font-weight: 700;
+    font-size:17px;
+    font-family: 'Roboto', Arial, sans-serif;
+
+}
+
+#more{
+	position: absolute;
+	left: 82%;
+	top: 25%;
+	width: 70px;
+    background: #2874f0;
+    text-decoration:none solid;
+    color: white;
+    border: 0;
+    font-weight: 700;
+    font-size:17px;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.cpng{
+	position: absolute;
+	left: 88%;
+	top: 25%;
+}
+
+.u1head{
+	position: relative;
+	width: 100%;
+	height: 105px;
+
+	
+}
+.fline{
+
+	color: grey;
+}
+.mpic{
+	       position: absolute;
+    left: 9%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.mobiles{
+	     position: absolute;
+    left: 9.5%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+
+}
+
+.mfashion{
+	  position: absolute;
+    left: 17%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.fashion{
+	      position: absolute;
+    left: 17.5%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+
+}
+
+.mbeauty{
+	       position: absolute;
+    left: 26%;
+    top: 20%;
+    max-height: 66%;
+
+}
+.beauty{
+	    position: absolute;
+    left: 24.5%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+
+}
+
+.melect{
+	        position: absolute;
+    left: 36%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.electronics{
+	   position: absolute;
+    left: 36%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+
+}
+
+.mappl{
+	   position: absolute;
+    left: 46%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.appl{
+	position: absolute;
+    left: 46%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+
+}
+
+.mfurn{
+	      position: absolute;
+    left: 55%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.furn{
+	        position: absolute;
+    left: 55.5%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+   
+
+}
+
+.mtravel{
+	   position: absolute;
+    left: 64%;
+    top: 22%;
+    max-height: 66%;
+    font-weight: 550;
+
+}
+.travel{
+	     position: absolute;
+    left: 64.8%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.mgrocery{
+	       position: absolute;
+    left: 73%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.grocery{
+	    position: absolute;
+    left: 73.5%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.mhome{
+	  position: absolute;
+    left: 82%;
+    top: 22%;
+    max-height: 66%;
+
+}
+.home{
+	position: absolute;
+    left: 83%;
+    top: 86%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 550;
+
+}
+
+.headtwo{
+	position: relative;
+	width: 98%;
+	height: 250px;
+    background: red;
+    margin: 10px;
+	
+}
+.slideshow{
+	    position: absolute;
+    left: 2%;
+    width: 95.8%;
+    height: 250px;
+
+}
+.arrow{
+	    padding-top: 89px;
+    height: 50px;
+}
+.rightarrow{
+	position: absolute;
+	left: 100%;
+	padding-top: 89px;
+    height: 50px;
+    transform: scaleX(-1);
+
+
+}
+
+.thirdhead{
+    position: relative;
+	
+	width: 98%;
+	height: 111px;
+    margin: 10px;
+    
+}
+.sbipic{
+    position: absolute;
+    padding-top: 1%;
+    left: 0%;
+    width: 100%;
+    height: 100px;
+}
+.outer{
+    background-color: #eff7fb;
+}
+
+.fhead{
+    
+    display: flex;
+    width: 98%;
+    height: 307px;
+    margin: 10px;
+}
+.firstbox{
+    position: relative;
+    height: 99%;
+    width: 20%;
+
+}
+
+.secondbox{
+    position: relative;
+    height: 99%;
+    width: 20%;
+    
+
+}
+.thirdbox{
+    position: relative;
+    height: 99%;
+    width: 20%;
+    
+
+}
+.fourthbox{
+    position: relative;
+    height: 99%;
+    width: 20%;
+    
+}
+.fifthbox{
+    position: relative;
+    height: 99%;
+    width: 20%;
+    background-color: cyan;
+
+}
+
+.offers{
+    position: absolute;
+    left: 22%;
+    top: 30%;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 400;
+    font-size: 33px;
+
+}
+.view1{
+    position: absolute;
+    left: 35%;
+    top: 54%;
+    text-decoration: none;
+    background-color: #2874f0;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 15px;
+    line-height: 18.2px;
+    font-weight: 500px;
+
+
+}
+.orangepic{
+    position: absolute;
+    top: 68.5%;
+    height: 96px;
+    width: 298px;
+}
+.cooker1{
+    position: absolute;
+    top: 5%;
+    left: 16%;
+    height: 181px;
+    width: 203px;
+}
+.induction{
+    position: absolute;
+    top: 68%;
+    left: 24%;
+    font-size: 21px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.upto{
+    position: absolute;
+    top: 77%;
+    left: 27%;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: green;
+}
+.philips{
+    position: absolute;
+    top: 86%;
+    left: 23%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: grey;
+}
+.violin1{
+    position: absolute;
+    top: 5%;
+    left: 16%;
+    height: 181px;
+    width: 203px;
+}
+.upto1{
+    position: absolute;
+    top: 77%;
+    left: 29%;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: green;
+}
+.violin2{
+    position: absolute;
+    top: 86%;
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: grey;
+}
+.induction2{
+    position: absolute;
+    top: 68%;
+    left: 24%;
+    font-size: 21px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.induction3{
+    position: absolute;
+    top: 68%;
+    left: 24%;
+    font-size: 21px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.upto2{
+    position: absolute;
+    top: 77%;
+    left: 29%;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: green;
+}
+.music2{
+    position: absolute;
+    top: 86%;
+    left: 35%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Roboto', Arial, sans-serif;
+    color: grey;
+}
+.music1{
+    position: absolute;
+    top: 26%;
+    left: 16%;
+    height: 84px;
+    width: 203px;
+}
+.mivi{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.fifhead{  
+    position: relative;
+    margin: 6px;
+    height: 265px;
+    width: 493px;
+   
+}
+.sixhead{  
+    position: relative;
+    margin: 6px;
+    height: 265px;
+    width: 493px;
+   
+}
+.sevhead{  
+    position: relative;
+    margin: 6px;
+    height: 265px;
+    width: 493px;
+    
+}
+.fifmain{
+    margin: 10px;
+    display: flex;
+}
+.colgate{
+position: absolute;
+top: 1%;
+width: 100%;
+
+}
+.crazy{
+    position: absolute;
+    top: 1%;
+    width: 100%;
+    
+    }
+.god{
+        position: absolute;
+        top: 1%;
+        width: 100%;
+        
+        }
+.beforefooter{
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 11px;
+    color: rgb(135 135 135);
+    margin: 10px;
+    background-color: #ffffff;
+    padding-left: .5%;
+    font-weight: 400;
+    text-decoration: none solid;
+}        
+h1{
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #636363;
+   font-size: 14px;
+   padding-left: .5%;
+}
+h2{
+    font-family: 'Roboto', Arial, sans-serif;
+    padding-left: .5%;
+    color: #636363;
+    font-size:13px;
+    line-height:16px;
+}
+.footer{
+    position: relative;
+    width: 100%;
+    height: 288px;
+    background-color: #172337;
+    
+}
+
+.firstsection{
+    position: absolute;
+    display: flex;
+    left: 5%;
+    top: 16%;
+    height: 242px;
+    width: 88%;
+    background-color: #172337;
+}
+.aboutsection{
+    position: relative;
+    width: 16%;
+    height: 240px;
+    background-color: #172337;
+}
+.helpsection{
+    width: 16%;
+    height: 240px;
+    background-color: #172337;
+}
+.policysection{
+    width: 16%;
+    height: 240px;
+    background-color: #172337;
+}
+.socialsection{
+    width: 16%;
+    height: 240px;
+    background-color: #172337;
+}
+.mailus{
+    width: 28%;
+    height: 240px;
+    background-color: #172337;
+}
+.office{
+    width: 18%;
+    height: 240px;
+    background-color: #172337;
+}
+.aboutsection1{
+    position: absolute;
+    top: 5%;
+    left: 15%;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.contactus{
+    font-family: 'Roboto', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ffffff;
+
+}
+.list{
+    position: absolute;
+    left: -5%;
+    top: 9%;
+    list-style-type: none;
+}
+.contactus1{
+    font-family: 'Roboto', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ffffff;
+
+}
+.list1{
+    position: absolute;
+    left: 14%;
+    top: 9%;
+    list-style-type: none;
+}
+.helpsection1{
+    position: absolute;
+    top: 5%;
+    left: 17%;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.contactus2{
+    font-family: 'Roboto', Arial, sans-serif;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ffffff;
+
+}
+.list2{
+    position: absolute;
+    left: 28%;
+    top: 9%;
+    list-style-type: none;
+}
+.policysection1{
+    position: absolute;
+    top: 5%;
+    left: 31%;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.list3{
+    position: absolute;
+    left: 42%;
+    top: 9%;
+    list-style-type: none;
+}
+.socialsection1{
+    position: absolute;
+    top: 5%;
+    left: 45%;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.vline{
+    position: absolute;
+    height: 212px;
+    width: 15px;
+    left: 54%;
+    top: -18%;
+}
+.list4{
+    position: absolute;
+    left: 57%;
+    top: 9%;
+    list-style-type: none;
+}
+.mailussection1{
+    position: absolute;
+    top: 5%;
+    left: 60%;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+
+.list5{
+    position: absolute;
+    left: 81%;
+    top: 7%;
+    list-style-type: none;
+}
+.officesection1{
+    position: absolute;
+    top: 4%;
+    left: 84%;
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: 'Roboto', Arial, sans-serif;
+}
+.lastfooter{
+    position: relative;
+    margin-top: .2px;
+    width: 100%;
+    height: 50px;
+    background-color: #172337;
+}
+.suitcase1{
+    position: absolute;
+    top: 38%;
+    left: 7%;
+}
+.sell{
+    position: absolute;
+    top: 38%;
+    left: 8.5%;
+    color: white;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.star1{
+    position: absolute;
+    top: 38%;
+    left: 19%;
+}
+.sell1{
+    position: absolute;
+    top: 38%;
+    left: 20.5%;
+    color: white;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.gifts1{
+    position: absolute;
+    top: 38%;
+    left: 30%;
+}
+.sell2{
+    position: absolute;
+    top: 38%;
+    left: 20.5%;
+    color: white;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.helplast1{
+    position: absolute;
+    top: 38%;
+    left: 41%;
+}
+.sell3{
+    position: absolute;
+    top: 38%;
+    left: 31.5%;
+    color: white;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.sell4{
+    position: absolute;
+    top: 38%;
+    left: 42.5%;
+    color: white;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.payment1{
+    position: absolute;
+    top: 38%;
+    left: 72%;
+}
+.flipyear{
+    position: absolute;
+    top: 38%;
+    left: 52.5%;
+    color: white;
+    font-family: 'Roboto',Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
